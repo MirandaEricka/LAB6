@@ -1,0 +1,45 @@
+#top {
+			font-family: "Lucida Console", Monaco, monospace;
+			color: white;
+			text-shadow: 2px 2px black;
+			background-color: #99e6ff;
+			overflow: hidden;
+			padding: 20px 20px 20px 20px;
+			width: 1250pxpx;
+			border-style: solid dashed solid dashed;
+			border-width: 3px;
+			border-color: #0086b3; 
+			text-align: center;
+}
+body {
+ background: url("H2TkE0J.jpg") no-repeat center top fixed;
+}
+h1 {
+ font-size: 600%
+}
+p #top {
+ font-size: 300%
+}
+.img-circle {
+background-color: gray;
+overflow: hidden;
+padding: 10px;
+border-radius: 100%;
+border-style: dashed;
+border-color: black;
+border-width: 4px;
+display: block;
+margin: auto;
+}
+#information {
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 100%;
+}
+.information1 {
+	color: #ff3333;
+	margin-right: 10px;
+	float: left;
+}
+.information2 {	
+	color: #ff6666;
+}
